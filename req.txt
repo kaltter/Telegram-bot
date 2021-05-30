@@ -1,0 +1,5 @@
+telebot
+feedparser
+Flask
+flask_sqlalchemy
+sqlalchemy
